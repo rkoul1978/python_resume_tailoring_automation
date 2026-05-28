@@ -1,7 +1,10 @@
 # Resume Reader Project
 
 ## Project Overview
-A Python application that reads and displays content from Word document (.docx) resume files.
+A Python application that reads and displays content from Word document (.docx) resume files,
+searches for relevant job openings, 
+tailors resume to the job details matches, 
+and writes the updated resume back to disk
 
 ## Setup Checklist
 
