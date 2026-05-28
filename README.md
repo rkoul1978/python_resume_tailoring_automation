@@ -12,6 +12,9 @@ write updated resume back to disk
 - Displays any tables present in the document
 - Simple command-line interface
 - Error handling for missing or invalid files
+- search relevant job openings, 
+- tailor resume to the job details matches, 
+- write updated resume back to disk
 
 ## Requirements
 
